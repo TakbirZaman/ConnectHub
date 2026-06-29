@@ -1,0 +1,6 @@
+uploads/*
+!uploads/logo.png
+!uploads/favicon.png
+!uploads/favicon.ico
+*.bak
+.env
